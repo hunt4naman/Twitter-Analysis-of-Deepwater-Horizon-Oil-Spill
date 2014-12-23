@@ -73,7 +73,7 @@ In this task you will analyze the content of the tweets and try to detect expres
     
 5.	 IMPLICATIONS
 
-    a.)	What did learn from examining the oilspill dataset? 
+    a.)	What did you learn from examining the oilspill dataset? 
     
     b.)	Who were the most influential actors in the network?
     
